@@ -399,6 +399,11 @@ to explore life. Also, Python and Django Developer
 - Place: Phoenix, AZ
 - Bio: Customer Success Manager
 - GitHub: [RedBeardAZ] (https://github.com/redbeardaz)
+  
+ #### Name: [Anupriya] (https://github.com/Anu-2003)
+- Place: Datia,(M.P.)
+- Bio: IITian
+- GitHub: [Anu-2003] (https://github.com/Anu-2003)
 
 #### Name: [Brandon Fadairo](https://github.com/BFadairo)
 - Place: Columbus, Ohio
